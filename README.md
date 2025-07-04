@@ -74,3 +74,5 @@ Kotlin is the core programming language  used for this app. It has various featu
 *<img width="1280" alt="sampleAImode" src="https://github.com/user-attachments/assets/798d5d22-3a44-45b9-88fc-7aef02d43b0e" />
 
 *<img width="1280" alt="Unity cube" src="https://github.com/user-attachments/assets/b638922a-9ffb-4af6-8de9-23910fbbcf88" />
+* <img width="1280" alt="boardn" src="https://github.com/user-attachments/assets/8038c234-8167-405f-b5de-0ffb6f2c63a0" />
+* <img width="1280" alt="mode" src="https://github.com/user-attachments/assets/03a36ded-6520-4792-8c9d-23f1e3fad6dd" />
