@@ -67,7 +67,7 @@ Kotlin is the core programming language  used for this app. It has various featu
 
 *<img width="1280" alt="namescreen" src="https://github.com/user-attachments/assets/22283fb6-5cd7-4feb-8cda-dbbfb3b44a46" />
 
-*<img width="1280" alt="boarsize" src="https://github.com/user-attachments/assets/1167fa28-2e90-46a3-981d-d53048eafeb6" />
+
 
 *<img width="1280" alt="sample_2player_tictactoe" src="https://github.com/user-attachments/assets/292b2771-79ff-46d7-8938-5b705176bc31" />
 
