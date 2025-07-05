@@ -63,16 +63,13 @@ Kotlin is the core programming language  used for this app. It has various featu
 * **Vanish mode**(in next update) -version where 1st move done by the user vanishes whenever he places his 4th move
 
   ## Screenshots
-* <img width="1280" alt="homepage" src="https://github.com/user-attachments/assets/b4879e20-1953-4a44-998f-dd01b185e04f" />
+  <img width="1280" alt="homepage" src="https://github.com/user-attachments/assets/5e1b4d4c-5357-49f5-95ef-b642e4d0e202" />
 
-*<img width="1280" alt="namescreen" src="https://github.com/user-attachments/assets/22283fb6-5cd7-4feb-8cda-dbbfb3b44a46" />
+<img width="1280" alt="namescreen" src="https://github.com/user-attachments/assets/93bf97a4-508e-4930-b7e0-8cc828dd2a02" />
 
-
-
-*<img width="1280" alt="sample_2player_tictactoe" src="https://github.com/user-attachments/assets/292b2771-79ff-46d7-8938-5b705176bc31" />
-
-*<img width="1280" alt="sampleAImode" src="https://github.com/user-attachments/assets/798d5d22-3a44-45b9-88fc-7aef02d43b0e" />
-
-*<img width="1280" alt="Unity cube" src="https://github.com/user-attachments/assets/b638922a-9ffb-4af6-8de9-23910fbbcf88" />
 * <img width="1280" alt="boardn" src="https://github.com/user-attachments/assets/8038c234-8167-405f-b5de-0ffb6f2c63a0" />
 * <img width="1280" alt="mode" src="https://github.com/user-attachments/assets/03a36ded-6520-4792-8c9d-23f1e3fad6dd" />
+<img width="1280" alt="sample_2player_tictactoe" src="https://github.com/user-attachments/assets/6cdbdd3e-1e2e-4769-bf9c-130c6f92412e" />
+<img width="1280" alt="sampleAImode" src="https://github.com/user-attachments/assets/bb9c39c4-6945-4e02-8e08-339c30a72a9c" />
+
+
